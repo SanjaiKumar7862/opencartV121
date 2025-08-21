@@ -1,0 +1,48 @@
+19:15:13.128 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:15:13.136 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:15:13.141 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:15:13.141 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:15:13.141 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:15:13.141 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:15:13.143 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:15:13.143 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:15:13.145 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:15:13.145 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:15:13.145 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:15:13.145 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:15:13.155 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ssenapathy\AppData\Local\Temp\testng-eclipse--1042346748\testng-customsuite.xml
+
+19:15:13.175 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+19:15:14.151 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@604b1e1d: 100 ms
+19:15:14.174 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4ab550d5: 23 ms
+19:15:14.182 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7a1f8def: 8 ms
+19:15:14.194 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@270b6b5e: 12 ms
+19:15:14.201 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@138caeca: 7 ms
+19:15:14.201 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4d96250: 0 ms
+17:18:34.955 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ssenapathy\eclipse-workspace\opencartV121\master.xml
+
+17:18:54.504 [main] INFO  testCases.TC003_LoginDataDriTest - Starting of Test case TC003
+17:18:57.603 [main] INFO  testCases.TC003_LoginDataDriTest - Ending of Test case TC003
+17:18:57.659 [main] INFO  testCases.TC003_LoginDataDriTest - Starting of Test case TC003
+17:19:00.489 [main] INFO  testCases.TC003_LoginDataDriTest - Starting of Test case TC003
+17:19:12.757 [main] INFO  testCases.TC003_LoginDataDriTest - Ending of Test case TC003
+17:19:12.761 [main] INFO  testCases.TC003_LoginDataDriTest - Starting of Test case TC003
+17:19:15.576 [main] INFO  testCases.TC003_LoginDataDriTest - Ending of Test case TC003
+17:21:06.479 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ssenapathy\eclipse-workspace\opencartV121\master.xml
+
+17:21:21.335 [main] INFO  testCases.TC002_LoginTest - Starting the test case TC002
+17:21:23.523 [main] INFO  testCases.TC002_LoginTest - Finishing the test case TC002
+14:44:59.228 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ssenapathy\eclipse-workspace\opencartV121\master.xml
+
+14:45:18.175 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting of TC001 ***
+14:45:18.385 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on MyAccount..
+14:45:19.206 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on Register..
+14:45:19.212 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+14:45:22.548 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+14:45:22.613 [main] INFO  testCases.TC001_AccountRegistrationTest - *** End of TC001 ***
+14:45:36.657 [main] INFO  testCases.TC002_LoginTest - Starting the test case TC002
+14:45:38.819 [main] INFO  testCases.TC002_LoginTest - Finishing the test case TC002
